@@ -31,21 +31,6 @@ The Colab runtime already contains most scientific Python packages. The notebook
 - seaborn
 - scikit-learn
 
-## Notebook structure / outline
-
-The notebook is organized into sections similar to:
-
-1. Introduction / objectives
-2. Imports and environment setup
-3. Data loading
-4. Initial inspection (shape, dtypes, head)
-5. Missing values analysis and handling
-6. Univariate and bivariate EDA (distributions, boxplots)
-7. Correlation analysis and heatmaps
-8. Feature engineering / transformations
-9. Baseline model(s) (train/test split, simple regressors)
-10. Evaluation and conclusions
-
 ---
 
 ## How to run (quick steps)
